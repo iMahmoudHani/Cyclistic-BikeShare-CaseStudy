@@ -2,6 +2,7 @@
 Case study analyzing Cyclistic bike-share data to compare casual riders and members.
 
 🚲 Cyclistic Bike-Share Case Study
+
 📌 Objective
 
 Analyze 12 months of Cyclistic bike-share data to understand how casual riders and annual members use the service differently, and provide recommendations to increase memberships.
