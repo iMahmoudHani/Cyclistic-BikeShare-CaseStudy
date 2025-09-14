@@ -39,8 +39,8 @@ Market electric bike convenience to all user groups.
 
 📂 Deliverables
 
-[📄 Final Presentation (PDF)](./Cyclistic_Case_Study.pdf)  
-[📊 Final Presentation (PPTX)](./Cyclistic_Case_Study.pptx)
+[📄 Final Presentation (PDF)](./Cyclistic Case Study.pdf)  
+[📊 Final Presentation (PPTX)](./Cyclistic Case Study.pptx)
 
 
 ✅ This project demonstrates my ability to clean, analyze, and visualize real-world data, and to turn insights into actionable business recommendations.
