@@ -43,6 +43,7 @@ Market electric bike convenience to all user groups.
 📂 Deliverables
 
 [📄 Final Presentation (PDF)](Cyclistic%20Case%20Study.pdf)
+
 [📄 Final Presentation (PDF)](Cyclistic%20Case%20Study.pptx)
 
 
