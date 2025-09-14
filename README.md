@@ -7,6 +7,9 @@ Case study analyzing Cyclistic bike-share data to compare casual riders and memb
 
 Analyze 12 months of Cyclistic bike-share data to understand how casual riders and annual members use the service differently, and provide recommendations to increase memberships.
 
+
+![Monthly Ride Patterns - Casual vs Members](Monthly%20Ride%20Patterns-Casual%20vs%20Members.png)
+
 🛠️ Tools Used
 
 Excel (data cleaning & transformation)
