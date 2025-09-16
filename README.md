@@ -51,7 +51,7 @@ Skills Demonstrated:
 
 3-Members have shorter ride durations but higher ride frequency.
 
-Business Recommendations:
+💡 Business Recommendations:
 
 1-Seasonal Subscriptions: Introduce summer membership packages (July–September), since casual ridership peaks during these months.
 
