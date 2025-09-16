@@ -3,8 +3,6 @@
 
 Cyclistic, a Chicago-based bike-share program with 5,824 bikes and 692 stations, offers flexible pricing through single-ride, day passes, and annual memberships. While casual riders provide short-term revenue, finance analysts confirmed annual members are far more profitable. This case study analyzes 12 months of trip data to uncover differences in usage patterns and provide strategies to convert casual riders (37%) into annual members (63%), driving long-term growth.
 
-### 📊 Monthly Ride Patterns: Casual vs Members
-
 ![Picture2](Picture2.png)
 
 ## **Business Problem**
