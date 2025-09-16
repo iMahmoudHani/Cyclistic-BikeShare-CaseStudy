@@ -1,11 +1,13 @@
 # Cyclistic-BikeShare-CaseStudy
 ## **Executive Summary**
 
-This project analyzes 12 months of Cyclistic bike-share data to understand how casual riders and annual members use bikes differently. Insights from this analysis will help Cyclistic’s marketing team design strategies to convert casual riders into annual members, which is key to increasing long-term revenue.
+Cyclistic, a Chicago-based bike-share program with 5,824 bikes and 692 stations, offers flexible pricing through single-ride, day passes, and annual memberships. While casual riders provide short-term revenue, finance analysts confirmed annual members are far more profitable. This case study analyzes 12 months of trip data to uncover differences in usage patterns and provide strategies to convert casual riders (37%) into annual members (63%), driving long-term growth.
 
 ## **Business Problem**
 
-Cyclistic generates significant revenue from annual memberships. However, a large portion of riders are casual users (single-ride or day-pass customers). The business question is:
+Cyclistic’s future success depends on maximizing annual memberships, which generate stable, recurring revenue
+
+ The business question is:
 
  “How do annual members and casual riders use Cyclistic bikes differently, and how can we encourage casual riders to purchase annual memberships?”
 
@@ -33,7 +35,7 @@ Compared usage patterns between members and casuals.
 
 ## **Skills Demonstrated**
 
-1-Data Cleaning (Excel / R / SQL, depending on your tools)
+1-Data Cleaning (Excel-Remove Duplicates, Find & Replace, TRIM)
 
 2-Data Transformation (creating calculated fields, formatting)
 
@@ -49,7 +51,9 @@ Compared usage patterns between members and casuals.
 
 2-Members ride more consistently during weekdays, often for commuting.
 
-3-Members have shorter ride durations but higher ride frequency.
+3-Casual riders peak around 5 PM (afternoon/evening fun), members peak at 8 AM and 5 PM (commute times).
+<img width="1540" height="70" alt="image" src="https://github.com/user-attachments/assets/5c860cd5-b46f-4035-b182-89cf079994ed" />
+
 
 ## **Business Recommendations**
 
