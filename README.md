@@ -20,7 +20,7 @@ Standardized column formats (dates, ride types).
 Created calculated fields (e.g., ride length in minutes, day of week).
 
 3-Exploratory Analysis:
-Aggregated data by rider type, day of week, and ride length.
+Aggregated data by day of week, rider type, and ride length.
 Compared usage patterns between members and casuals.
 
 ![Monthly Ride Patterns - Casual vs Members](Daily%20Ride%20Patterns-Casual%20vs%20Members.png)
