@@ -31,6 +31,7 @@ Visualization:
 2-Used pivot tables (Excel) / dashboards (Power BI, if included).
 
 Skills Demonstrated:
+
 1-Data Cleaning (Excel / R / SQL, depending on your tools)
 2-Data Transformation (creating calculated fields, formatting)
 3-Exploratory Data Analysis (grouping, aggregating, filtering)
