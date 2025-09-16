@@ -65,7 +65,10 @@ The data showed casual ridership peaks during summer months, especially July–S
 Many of them ride multiple times in a short timeframe, but they don’t commit to annual memberships.
 How this helps revenue?
 Capturing demand : Instead of relying on one-time daily passes, Cyclistic can sell 3-month seasonal memberships.
-Example: A casual rider who might spend $8 per ride × 10 rides = $80.
+
+**Example:**
+
+A casual rider who might spend $8 per ride × 10 rides = $80.
 A seasonal pass priced at $60–$70 could be cheaper for them, but ensures Cyclistic earns upfront guaranteed revenue.
 Customer lock-in → Once someone pays for a seasonal pass, they’re more likely to use Cyclistic regularly → higher ride volume → more visibility of the service.
 Conversion funnel → After summer, Cyclistic can target seasonal members with offers to convert into annual memberships (“Extend your membership and save 20%”).
