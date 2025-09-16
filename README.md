@@ -22,6 +22,7 @@ Created calculated fields (e.g., ride length in minutes, day of week).
 3-Exploratory Analysis:
 Aggregated data by rider type, day of week, and ride length.
 Compared usage patterns between members and casuals.
+
 ![Monthly Ride Patterns - Casual vs Members](Daily%20Ride%20Patterns-Casual%20vs%20Members.png)
 
 
@@ -44,6 +45,7 @@ Results:
 Business Recommendations:
 
 1-Seasonal Subscriptions: Introduce summer membership packages (July–September), since casual ridership peaks during these months.
+
 ![Monthly Ride Patterns - Casual vs Members](Monthly%20Ride%20Patterns-Casual%20vs%20Members.png)
 
 Why this matters?
