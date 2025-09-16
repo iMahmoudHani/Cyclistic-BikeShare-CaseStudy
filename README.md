@@ -25,7 +25,6 @@ Compared usage patterns between members and casuals.
 
 ![Monthly Ride Patterns - Casual vs Members](Daily%20Ride%20Patterns-Casual%20vs%20Members.png)
 
-
 Visualization:
 1-Built charts to show ride frequency, duration, and preferences.
 2-Used pivot tables (Excel) / dashboards (Power BI, if included).
