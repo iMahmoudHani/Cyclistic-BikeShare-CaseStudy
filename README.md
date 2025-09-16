@@ -90,13 +90,11 @@ Casual riders (especially tourists or summer-only users) often don’t see value
 
 **More data gathering like**
 
-Gender - to explore if men and women ride differently (e.g., frequency, duration, preferred days).
+1-Gender - to explore if men and women ride differently (e.g., frequency, duration, preferred days).
 
-Age group - to identify target demographics (young adults, middle-aged commuters, retirees).
+2-Age group - to identify target demographics (young adults, middle-aged commuters, retirees).
 
-Income level - to test whether affordability plays a role in choosing casual vs. annual memberships.
-
-Tourist vs Local - differentiating visitors from residents could help design specialized membership programs.
+3-Income level - to test whether affordability plays a role in choosing casual vs. annual memberships.
 
 ## **Next Steps**
 
