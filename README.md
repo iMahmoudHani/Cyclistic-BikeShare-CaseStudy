@@ -5,7 +5,7 @@ Cyclistic, a Chicago-based bike-share program with 5,824 bikes and 692 stations,
 
 ### 📊 Monthly Ride Patterns: Casual vs Members
 
-![picture2](picture2.png)
+![Picture2](Picture2.png)
 
 ## **Business Problem**
 
