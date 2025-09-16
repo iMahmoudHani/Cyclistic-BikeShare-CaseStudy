@@ -59,7 +59,7 @@ Compared usage patterns between members and casuals.
 
 ![Monthly Ride Patterns - Casual vs Members](Monthly%20Ride%20Patterns-Casual%20vs%20Members.png)
 
-Why this matters?
+**Why this matters?**
 
 The data showed casual ridership peaks during summer months, especially July–September. Casual riders in this period are often tourists, students on vacation, or locals doing outdoor activities.
 Many of them ride multiple times in a short timeframe, but they don’t commit to annual memberships.
@@ -75,7 +75,8 @@ Suppose in July–Sept there are 200,000 casual riders.
 If just 15% (30,000 riders) choose a $70 seasonal pass - $2.1M in revenue upfront.
 Compare that to the same riders buying only a few single rides - revenue is scattered, unpredictable, and often lower.
 
-Why seasonal subscription and not Annual?
+**Why seasonal subscription and not Annual?**
+
 Casual riders (especially tourists or summer-only users) often don’t see value in a full-year membership because they won’t use the service outside summer. Since the data shows a very low number of rides specially during winter compared to the peak no of rides durring summer time. So a 3-month seasonal plan feels like a smaller, safer commitment = easier to say yes.
 
 2-Weekend Packages: Offer weekend-only passes or discounted Saturday/Sunday bundles to attract tourists and leisure riders.
