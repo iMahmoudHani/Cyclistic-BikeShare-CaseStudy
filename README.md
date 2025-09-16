@@ -1,15 +1,15 @@
 # Cyclistic-BikeShare-CaseStudy
-**Executive Summary**
+## **Executive Summary**
 
 This project analyzes 12 months of Cyclistic bike-share data to understand how casual riders and annual members use bikes differently. Insights from this analysis will help Cyclistic’s marketing team design strategies to convert casual riders into annual members, which is key to increasing long-term revenue.
 
-Business Problem:
+## **Business Problem**
 
 Cyclistic generates significant revenue from annual memberships. However, a large portion of riders are casual users (single-ride or day-pass customers). The business question is:
 
  “How do annual members and casual riders use Cyclistic bikes differently, and how can we encourage casual riders to purchase annual memberships?”
 
-Methodology:
+## **Methodology**
 
 1- Data Collection:
 Combined 12 CSV files of ride data into one dataset.
@@ -25,13 +25,13 @@ Compared usage patterns between members and casuals.
 
 ![Monthly Ride Patterns - Casual vs Members](Daily%20Ride%20Patterns-Casual%20vs%20Members.png)
 
-Visualization:
+## **Visualization**
 
 1-Built charts to show ride frequency, duration, and preferences.
 
 2-Used pivot tables (Excel) / dashboards (Power BI, if included).
 
-Skills Demonstrated:
+## **Skills Demonstrated**
 
 1-Data Cleaning (Excel / R / SQL, depending on your tools)
 
@@ -93,7 +93,7 @@ Income level - to test whether affordability plays a role in choosing casual vs.
 
 Tourist vs Local - differentiating visitors from residents could help design specialized membership programs.
 
-Next Steps:
+## **Next Steps**
 
 1-Data Collection: Gather gender, age, income, and tourist vs. local data for a more accurate customer segmentation.
 
