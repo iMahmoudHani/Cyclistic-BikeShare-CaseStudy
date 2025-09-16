@@ -52,8 +52,6 @@ Compared usage patterns between members and casuals.
 2-Members ride more consistently during weekdays, often for commuting.
 
 3-Casual riders peak around 5 PM (afternoon/evening fun), members peak at 8 AM and 5 PM (commute times).
-<img width="1540" height="70" alt="image" src="https://github.com/user-attachments/assets/5c860cd5-b46f-4035-b182-89cf079994ed" />
-
 
 ## **Business Recommendations**
 
