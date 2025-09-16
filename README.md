@@ -29,7 +29,7 @@ Compared usage patterns between members and casuals.
 
 1-Built charts to show ride frequency, duration, and preferences.
 
-2-Used pivot tables (Excel) / dashboards (Power BI, if included).
+2-Used pivot tables (Excel) 
 
 ## **Skills Demonstrated**
 
