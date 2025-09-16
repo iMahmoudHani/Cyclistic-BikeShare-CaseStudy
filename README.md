@@ -88,8 +88,7 @@ Casual riders (especially tourists or summer-only users) often don’t see value
 
 4-Further Data Collection: Gather data to distinguish between local casual riders and out-of-state visitors. This will enable more tailored membership programs and targeted marketing campaigns.
 
-Example: 
-While the current analysis provides strong insights into ride patterns by membership type, additional demographic data would make the findings more actionable like:
+**More data gathering like**
 
 Gender - to explore if men and women ride differently (e.g., frequency, duration, preferred days).
 
