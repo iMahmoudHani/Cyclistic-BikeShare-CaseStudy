@@ -1,5 +1,5 @@
 # Cyclistic-BikeShare-CaseStudy
-Executive Summary
+**Executive Summary**
 
 This project analyzes 12 months of Cyclistic bike-share data to understand how casual riders and annual members use bikes differently. Insights from this analysis will help Cyclistic’s marketing team design strategies to convert casual riders into annual members, which is key to increasing long-term revenue.
 
@@ -83,12 +83,18 @@ Casual riders (especially tourists or summer-only users) often don’t see value
 4-Further Data Collection: Gather data to distinguish between local casual riders and out-of-state visitors. This will enable more tailored membership programs and targeted marketing campaigns.
 
 Example: 
-While the current analysis provides strong insights into ride patterns by membership type, additional demographic data would make the findings more actionable:
+While the current analysis provides strong insights into ride patterns by membership type, additional demographic data would make the findings more actionable like:
+
 Gender - to explore if men and women ride differently (e.g., frequency, duration, preferred days).
+
 Age group - to identify target demographics (young adults, middle-aged commuters, retirees).
+
 Income level - to test whether affordability plays a role in choosing casual vs. annual memberships.
+
 Tourist vs Local - differentiating visitors from residents could help design specialized membership programs.
 
 Next Steps:
+
 1-Data Collection: Gather gender, age, income, and tourist vs. local data for a more accurate customer segmentation.
+
 2-A/B Testing: Pilot seasonal/weekend offers to measure conversion impact.
