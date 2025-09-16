@@ -28,19 +28,26 @@ Compared usage patterns between members and casuals.
 Visualization:
 
 1-Built charts to show ride frequency, duration, and preferences.
+
 2-Used pivot tables (Excel) / dashboards (Power BI, if included).
 
 Skills Demonstrated:
 
 1-Data Cleaning (Excel / R / SQL, depending on your tools)
+
 2-Data Transformation (creating calculated fields, formatting)
+
 3-Exploratory Data Analysis (grouping, aggregating, filtering)
+
 4-Data Visualization (pivot tables, charts, dashboards)
+
 5-Business Communication (turning insights into recommendations)
 
 Results:
 1-Casual riders prefer weekends and longer rides.
+
 2-Members ride more consistently during weekdays, often for commuting.
+
 3-Members have shorter ride durations but higher ride frequency.
 
 Business Recommendations:
@@ -73,6 +80,7 @@ Casual riders (especially tourists or summer-only users) often don’t see value
 3-Tourist-Friendly Offers: Partner with hotels, tourist hotspots, and travel apps to promote convenient bike access for short-term visitors.
 
 4-Further Data Collection: Gather data to distinguish between local casual riders and out-of-state visitors. This will enable more tailored membership programs and targeted marketing campaigns.
+
 Example: 
 While the current analysis provides strong insights into ride patterns by membership type, additional demographic data would make the findings more actionable:
 Gender - to explore if men and women ride differently (e.g., frequency, duration, preferred days).
