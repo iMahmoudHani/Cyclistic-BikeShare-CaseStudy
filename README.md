@@ -43,7 +43,7 @@ Skills Demonstrated:
 
 5-Business Communication (turning insights into recommendations)
 
-Results:
+## 📊 **Results**
 
 1-Casual riders prefer weekends and longer rides.
 
